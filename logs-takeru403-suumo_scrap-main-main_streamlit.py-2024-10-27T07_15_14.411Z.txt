@@ -1,0 +1,111 @@
+
+[     UTC     ] Logs for suumoscrap-249xt9furygkf5hksdnx22.streamlit.app/
+────────────────────────────────────────────────────────────────────────────────────────
+[06:30:17] 🖥 Provisioning machine...
+[06:30:17] 🎛 Preparing system...
+[06:30:17] ⛓ Spinning up manager process...
+[06:27:44] 🚀 Starting up repository: 'suumo_scrap', branch: 'main', main module: 'main_streamlit.py'
+[06:27:44] 🐙 Cloning repository...
+[06:27:46] 🐙 Cloning into '/mount/src/suumo_scrap'...
+Warning: Permanently added the ED25519 host key for IP address '140.82.116.4' to the list of known hosts.
+
+[06:27:46] 🐙 Cloned repository!
+[06:27:46] 🐙 Pulling code changes from Github...
+[06:27:48] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Distribution not found at: file:///C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+Processing /C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work (from -r /mount/src/suumo_scrap/requirements.txt (line 1))
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: '/C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work'
+
+
+[notice] A new release of pip is available: 24.0 -> 24.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[06:27:51] ❗️ installer returned a non-zero exit code
+[06:27:51] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
+[06:29:25] ❗️ Streamlit server consistently failed status checks
+[06:29:25] ❗️ Please fix the errors, push an update to the git repo, or reboot the app.
+[06:30:19] 🚀 Starting up repository: 'suumo_scrap', branch: 'main', main module: 'main_streamlit.py'
+[06:30:19] 🐙 Cloning repository...
+[06:30:21] 🐙 Cloning into '/mount/src/suumo_scrap'...
+Warning: Permanently added the ED25519 host key for IP address '140.82.112.3' to the list of known hosts.
+
+[06:30:21] 🐙 Cloned repository!
+[06:30:21] 🐙 Pulling code changes from Github...
+[06:30:22] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Distribution not found at: file:///C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+Processing /C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work (from -r /mount/src/suumo_scrap/requirements.txt (line 1))
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: '/C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work'
+
+
+[notice] A new release of pip is available: 24.0 -> 24.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[06:30:25] ❗️ installer returned a non-zero exit code
+[06:30:25] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
+[06:31:59] ❗️ Streamlit server consistently failed status checks
+[06:31:59] ❗️ Please fix the errors, push an update to the git repo, or reboot the app.
+[06:30:19] 🚀 Starting up repository: 'suumo_scrap', branch: 'main', main module: 'main_streamlit.py'
+[06:30:19] 🐙 Cloning repository...
+[06:30:21] 🐙 Cloning into '/mount/src/suumo_scrap'...
+Warning: Permanently added the ED25519 host key for IP address '140.82.112.3' to the list of known hosts.
+
+[06:30:21] 🐙 Cloned repository!
+[06:30:21] 🐙 Pulling code changes from Github...
+[06:30:22] 📦 Processing dependencies...
+
+──────────────────────────────────────── uv ───────────────────────────────────────────
+
+Using uv pip install.
+error: Distribution not found at: file:///C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+
+──────────────────────────────────────── pip ───────────────────────────────────────────
+
+Using standard pip install.
+Processing /C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work (from -r /mount/src/suumo_scrap/requirements.txt (line 1))
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: '/C:/b/abs_3cwz1w13nn/croot/aiobotocore_1701291550158/work'
+
+
+[notice] A new release of pip is available: 24.0 -> 24.2
+[notice] To update, run: pip install --upgrade pip
+Checking if Streamlit is installed
+
+────────────────────────────────────────────────────────────────────────────────────────
+
+[06:30:25] ❗️ installer returned a non-zero exit code
+[06:30:25] ❗️ Error during processing dependencies! Please fix the error and push an update, or try restarting the app.
+[06:31:59] ❗️ Streamlit server consistently failed status checks
+[06:31:59] ❗️ Please fix the errors, push an update to the git repo, or reboot the app.
